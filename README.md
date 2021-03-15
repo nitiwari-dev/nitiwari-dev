@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitiwari-dev
 - 👀 I’m interested in mobile, backend, devops, iot, cloud architecture, human psychology and music 
-- 💞️ I’m looking to collaborate on software design from scratch from code to ship to live
+- 💞️ I’m looking to collaborate on software design, software development from scratch from code to ship to live, along with devops and automation
 - 📫 Wanted to know more:
   - StackOverflow:
     - https://stackoverflow.com/users/2783229/nitesh
