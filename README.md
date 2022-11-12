@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align = "center">Hey there 👋 !  I'm <b>Nitesh<b> </h3>
+    <h2 align = "center">Hey there 👋 !  I'm <b>NT<b> </h3>
 </p>
 
 <p align="center">Software engineer with keen interest in mobile, devops, backend, system design, iot, pyschology and music </p>
